@@ -39,4 +39,7 @@ and personalization.
 11. Compliance and Regulations:
 - Depending on the nature of the application, compliance with data protection regulations like GDPR may be necessary.
 
-  In summary, creating a registration form with CRUD operations is a fundamental aspect of web development, and it encompasses various considerations, including data management, security, user experience, and compliance. It is a valuable learning experience for developers, as it provides hands-on practice in building robust, user-friendly, and secure web applications.
+  In summary, creating a registration form with CRUD operations is a fundamental aspect of web development, 
+and it encompasses various considerations, including data management, security, user experience, and compliance.
+It is a valuable learning experience for developers, as it provides hands-on practice in building robust, user-friendly, 
+and secure web applications.
