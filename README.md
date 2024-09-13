@@ -1,4 +1,5 @@
-                                                                      **WEB DEVELOPMENT INTERNSHIP**
+**WEB DEVELOPMENT INTERNSHIP - DRDL**
+
 **ABSTRACT**
 
 This internship report explores the field of Web Development about how a website is created using front end development tools, back-end development tools and communication between those tools. The report begins by providing an overview of Web Development and its ability to provide developers with a comprehensive understanding of the entire web development process. It then introduces the software we use such as Oracle SQL Developer, Apache Tomcat server, Eclipse and Microsoft Front Page where we get into detail about each
